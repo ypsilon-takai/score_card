@@ -1,0 +1,102 @@
+table.input {
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+  width: 100%;
+  border: 1px solid #000;
+  border-collapse: separate;
+  border-spacing: 2px;
+  font-size: 100%;
+  text-align: center;
+  table-layout: fixed;
+}
+
+input#shots {
+    width: 90%;
+}
+
+table.input td {
+  text-align: center;
+  white-space: nowrap;
+}
+
+table.input td.name {
+  background: #2E8B57;
+  text-align: center;;
+  white-space: nowrap;
+  font-size: 150%;
+  font-weight: bold;
+  color: #FFF;
+  width: 50%
+}
+
+table.input td.holenum {
+  font-size: 110%;
+  text-align: left;
+}
+
+table.input td.prevbutton {
+  text-align: left;
+}
+
+table.input td.nextbutton {
+  text-align: right;
+}
+
+input#shots {
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+input#shotdec {
+    width: 100%;
+    height: 100%;
+}
+
+input.prev {
+    height: 130%;
+}
+
+input.next {
+    height: 130%;
+}
+
+table.input td.nextbutton {
+  text-align: right;
+}
+
+table.input td.shotdec {
+  text-align: left;
+}
+table.input td.shotinc {
+  text-align: right;
+}
+table.input td.submit {
+  text-align: right;
+}
+
+
+input#shots {
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+input#shotinc {
+    width: 90%;
+    height: 90%;
+    background: #FF9999;
+}
+
+input#shotdec {
+    width: 90%;
+    height: 90%;
+    background: #9999FF;
+}
+
+input#submit {
+    width: 50%;
+    height: 90%;
+}
+
+

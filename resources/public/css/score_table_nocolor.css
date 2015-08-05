@@ -1,0 +1,121 @@
+body.login {
+  font-size: x-large;
+}
+
+body.select {
+  font-size: x-large;
+}
+
+body.board {
+  font-size: x-large;
+}
+
+body.scorecard {
+  font-size: x-large;
+}
+
+
+table.board {
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 2px;
+  font-size: 100%;
+  text-align: center;
+}
+
+table.board td {
+  text-align: right;
+  white-space: nowrap;
+}
+
+table.board td.total {
+  background: #1B3AB4;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 150%;
+  font-weight: bold;
+  color: #FFF;
+}
+
+table.board td.compename {
+  font-size: 110%;
+  font-weight: bold;
+  text-align: center;
+  border: 3px solid #6666FF;
+}
+
+table.board td.groupname {
+  background: #33CC00;
+  font-size: 110%;
+  font-weight: bold;
+  text-align: left;
+  border: 1px solid #000000;
+}
+
+table.board td.name {
+  text-align: center;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+table.board tr.holenumlist {
+  text-align: center;
+}
+
+table.board tr.parlabel {
+  text-align: center;
+}
+
+table.board td.holepar {
+  background: #F2F5FF;
+  font-size: 85%;
+}
+
+table.board td.holenum {
+  background: #F5F2FF;
+  font-size: 85%;
+}
+
+table.board td.None {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.TrippleBogey {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.DoubleBogey {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.Bogey {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.Par {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.Birdy {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.Eagle {
+  font-size: 120%;
+  background: #FFFFFF;
+}
+
+table.board td.subtotal {
+  background: #E0E6FF;
+  font-size: 120%;
+  text-align: center;
+}
+
